@@ -1,17 +1,10 @@
 
 # **Dashboard-vendas**
 
-**Sistema de DashBoard de Vendas, apresentando dados de vendas reaizadas, quantidade bem como valor total de vendas para cada vendedor. 
-Dashboard Gráfico, apresentando os dados de vendas e de vendedor. 
-realizado o front-end e back-end da aplicacao.** 
-
+**Aplicação de Dashboard de Vendas, apresentando dados de vendas realizadas por vendedor bem como a quantidade de clientes visitados e negócios fechados, e valor total de vendas por colaborador.
+Dashboard Gráfico mostrando as vendas realizadas por vendendor e o ranking.** 
 
 Link aplicação : 
 https://dashboard-vendas-frank.netlify.app/dashboard
 
-~~~
-<dependency>
-	<groupId>org.springframework.boot</groupId>
-	<artifactId>spring-boot-starter-web</artifactId>
-</dependency>
-~~~
+![DashBoard](https://github.com/FrankDestro/projeto-SDS3-FRANK/blob/main/dashboard.png)
